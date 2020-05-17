@@ -1,0 +1,6 @@
+convert to .sh
+chmod file 
+make sure you pay attention to how it is pulling and from which repository ie YUM, Apt, etc. and edit it
+Centos 7 does have a forensics and epel repo which can be built into an offline repo and updated via reposync
+
+Otherwise have fun and I hope this helps the community
